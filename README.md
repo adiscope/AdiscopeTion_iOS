@@ -21,7 +21,7 @@ end
 그런 다음 명령 행에서 다음을 실행하세요.    
 
 ```
-pod install --repo-update. 
+pod install --repo-update  
 ```
 
 ## 빌드 설정
