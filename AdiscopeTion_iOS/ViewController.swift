@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 //class ViewController: UIViewController, AdiscopeDelegate {    // remove comment
     
+    // 해당 id 값을 등록하세요...
     let kMediaId            = ""    // Amdin page에 등록된 해당 application에 대한 Id
     let kMediaSecret        = ""    // mediaId에 대응되는 secret key
     let kUserId             = ""    // User ID
