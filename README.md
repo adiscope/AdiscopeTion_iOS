@@ -25,14 +25,15 @@ pod install --repo-update.
 ```
 
 ## 빌드 설정
-빌드 설정   
-Project의 Target > Build Settings > Build Options 에 Enable Bitcode 를 No 로 Setting 한다.    
-info.plist    
+### 빌드 설정   
+Project의 Target > Build Settings > Build Options 에 Enable Bitcode 를 No 로 Setting 한다. 
+    
+### info.plist 수정   
 info.plist 에 "GADIsAdManagerApp" Key와 Boolean Value (YES) 를 추가한다.   
 
 ```
-<key>GADApplicationIdentifier</key>
-<string>ca-app-pub-3940256099942544~1458002511</string>
+	<key>GADIsAdManagerApp</key>
+	<true/>
 ```
 
 ## Sample
