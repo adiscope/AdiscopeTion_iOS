@@ -3,7 +3,7 @@
 ## 설치 방법
 설치 방법.  
 Cocoapod    
-uncomment platform :ios, '9.0'.   
+uncomment platform :ios, '9.0'    
 pod 'AdiscopeTion'.  
 pod install --repo-update.  
 
