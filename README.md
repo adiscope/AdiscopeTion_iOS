@@ -2,10 +2,26 @@
 티온네트워크사용 Adiscope SDK for iOS
 
 ## 설치 방법
-설치 방법.  
-Cocoapod    
+프로젝트의 Podfile을 열고 아래 예제를 참고하여 수정하세요.   
 uncomment platform :ios, '9.0'    
-pod 'AdiscopeTion'.  
+pod 'AdiscopeTion'   
+
+```
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'AdiscopeTion_iOS' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for AdiscopeTion_iOS
+  pod 'AdiscopeTion'
+
+end
+```
+
+
+
 pod install --repo-update.  
 
 ## 빌드 설정
