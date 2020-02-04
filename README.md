@@ -1,4 +1,5 @@
 # AdiscopeTion_iOS
+티온네트워크사용 Adiscope SDK for iOS
 
 ## 설치 방법
 설치 방법.  
