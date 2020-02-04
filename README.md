@@ -1,11 +1,11 @@
 # AdiscopeTion_iOS
 
 ## 설치 방법
-설치 방법
-Cocoapod 
-uncomment platform :ios, '9.0' 
-pod 'AdiscopeTion'
-pod install --repo-update
+설치 방법.  
+Cocoapod    
+uncomment platform :ios, '9.0'.   
+pod 'AdiscopeTion'.  
+pod install --repo-update.  
 
 ## 빌드 설정
 빌드 설정
