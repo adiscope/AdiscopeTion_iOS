@@ -1,5 +1,6 @@
 # AdiscopeTion_iOS
-티온네트워크사용 Adiscope SDK for iOS
+티온네트워크사용 Adiscope SDK for iOS   
+__(Adiscope for iOS SDK는 iOS 9.0 이상을 지원함)__   
 
 ## 설치 방법
 프로젝트의 Podfile을 열고 아래 예제를 참고하여 수정하세요.   
