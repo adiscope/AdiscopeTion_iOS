@@ -32,11 +32,22 @@ Project의 Target > Build Settings > Build Options 에 Enable Bitcode 를 No 로
 info.plist 에 "GADIsAdManagerApp" Key와 Boolean Value (YES) 를 추가한다.   
 
 ```
-	<key>GADIsAdManagerApp</key>
-	<true/>
+<key>GADIsAdManagerApp</key>
+<true/>
 ```
 
 ## Sample
-Sample 의 ViewController.swift와 AdiscopeTion_iOS-Bridging-Header.h 파일을  
+1. Sample 의 ViewController.swift 에서 아래 내용을 입력한다.    
+
+```
+    // 해당 id 값을 등록하세요...
+    let kMediaId            = ""    // Amdin page에 등록된 해당 application에 대한 Id
+    let kMediaSecret        = ""    // mediaId에 대응되는 secret key
+    let kUserId             = ""    // User ID
+    let kUnitIdOfRV         = ""    // Rewarded Video 용 ID
+    let kUnitId4Offerwall   = ""    // Offerwall 용 ID
+```
+
+2. Sample 의 ViewController.swift와 AdiscopeTion_iOS-Bridging-Header.h 파일을  
 "// remove comment" uncomment  
 "// remove comment start" 와 "// remove comment end" 사이를 uncomment 하여 Build 한다.
