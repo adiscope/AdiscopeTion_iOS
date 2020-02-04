@@ -30,6 +30,9 @@ Project의 Target > Build Settings > Build Options 에 Enable Bitcode 를 No 로
 info.plist    
 info.plist 에 "GADIsAdManagerApp" Key와 Boolean Value (YES) 를 추가한다.   
 
+<key>GADApplicationIdentifier</key>
+<string>ca-app-pub-3940256099942544~1458002511</string>
+
 ## Sample
 Sample 의 ViewController.swift와 AdiscopeTion_iOS-Bridging-Header.h 파일을  
 "// remove comment" uncomment  
