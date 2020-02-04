@@ -3,8 +3,6 @@
 
 ## 설치 방법
 프로젝트의 Podfile을 열고 아래 예제를 참고하여 수정하세요.   
-uncomment platform :ios, '9.0'    
-pod 'AdiscopeTion'   
 
 ```
 # Uncomment the next line to define a global platform for your project
@@ -20,9 +18,11 @@ target 'AdiscopeTion_iOS' do
 end
 ```
 
+그런 다음 명령 행에서 다음을 실행하세요.    
 
-
-pod install --repo-update.  
+```
+pod install --repo-update. 
+```
 
 ## 빌드 설정
 빌드 설정   
