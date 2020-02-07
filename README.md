@@ -48,10 +48,11 @@ info.plist 에 "GADIsAdManagerApp" Key와 Boolean Value (YES) 를 추가한다.
     let kUnitIdOfRV         = ""    // Rewarded Video 용 ID
     let kUnitId4Offerwall   = ""    // Offerwall 용 ID
 ```
+2. Sample 의 Bundle Identifier 를 Adiscope SDK 를 연동할 티온네트워크사 App. 의 Bundle Identifier 로 교체한다.
 
-2. Sample 의 ViewController.swift와 AdiscopeTion_iOS-Bridging-Header.h 파일을  
+3. Sample 의 ViewController.swift와 AdiscopeTion_iOS-Bridging-Header.h 파일을  
 "// remove comment" uncomment  
 "// remove comment start" 와 "// remove comment end" 사이를 uncomment 하여 Build 한다.
 
-3. Sample 의 Bundle Identifier 를 Adiscope SDK 를 연동할 티온네트워크사 App. 의 Bundle Identifier 로 교체한다.
+
  
