@@ -54,5 +54,3 @@ info.plist 에 "GADIsAdManagerApp" Key와 Boolean Value (YES) 를 추가한다.
 "// remove comment" uncomment  
 "// remove comment start" 와 "// remove comment end" 사이를 uncomment 하여 Build 한다.
 
-
- 
