@@ -54,3 +54,14 @@ info.plist 에 "GADIsAdManagerApp" Key와 Boolean Value (YES) 를 추가한다.
 "// remove comment" uncomment  
 "// remove comment start" 와 "// remove comment end" 사이를 uncomment 하여 Build 한다.
 
+
+
+## History
+
+| Date |Cocoapods Version | Admin Version | Update Contents |
+| --- | ----------------- | ------------- | --------------- |
+| 2020.06.02 | 1.2.3.2           | 1.2.3         |    Admob Rewarded Video 요청 개선             |
+| 2020.05.15 | 1.2.2.4           | (Only Pods) |    - Cocoapods Admob 업데이트    |
+| 2020.05.15 | 1.2.2.4    | 1.2.2    |    - Vungle Version 변경 (6.4.6 -> 6.5.3)    |
+
+
