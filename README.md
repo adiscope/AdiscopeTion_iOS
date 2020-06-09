@@ -60,8 +60,9 @@ info.plist 에 "GADIsAdManagerApp" Key와 Boolean Value (YES) 를 추가한다.
 
 | Date |Cocoapods Version | Admin Version | Update Contents |
 | --- | ----------------- | ------------- | --------------- |
-| 2020.06.02 | 1.2.3.2           | 1.2.3         |    Admob Rewarded Video 요청 개선             |
-| 2020.05.15 | 1.2.2.4           | (Only Pods) |    - Cocoapods Admob 업데이트    |
+| 2020.06.02 | 1.2.3.3           | 1.2.3         | - 재배포 (배포 과정중 서버 설정 문제 수정) |
+| 2020.06.02 | 1.2.3.2           | 1.2.3         |    - Admob Rewarded Video API 수정 진행 (구 API 개선, Admob버전 정보 변동 없음)    |
+| 2020.05.18 | 1.2.2.5           | (Only Pods) |    - Cocoapods Admob 업데이트    |
 | 2020.05.15 | 1.2.2.4    | 1.2.2    |    - Vungle Version 변경 (6.4.6 -> 6.5.3)    |
 
 
