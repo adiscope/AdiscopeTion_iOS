@@ -60,6 +60,7 @@ info.plist 에 "GADIsAdManagerApp" Key와 Boolean Value (YES) 를 추가한다.
 
 | Date |Cocoapods Version | Admin Version | Update Contents |
 | --- | ----------------- | ------------- | --------------- |
+| 2020.06.23 | 1.4.0.2        | - | nanopb.framework 제거작업 진행 |
 | 2020.06.22 | 1.4.0         | 1.4.0    | - Adiscope Update 매치 (Adiscope Interstitial 업데이트) |
 | 2020.06.11 | 1.2.3.4           | (Only Pods)         | - Cocoapods Admob 제거 |
 | 2020.06.02 | 1.2.3.3           | 1.2.3         | - 재배포 (배포 과정중 서버 설정 문제 수정) |
