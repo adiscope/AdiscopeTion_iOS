@@ -6,6 +6,6 @@ target 'AdiscopeTion_iOS' do
   use_frameworks!
 
   # Pods for AdiscopeTion_iOS
-  pod 'AdiscopeTion'
+  pod 'AdiscopeTion', '1.5.9'
 
 end
