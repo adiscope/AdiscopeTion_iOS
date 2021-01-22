@@ -60,6 +60,7 @@ info.plist 에 "GADIsAdManagerApp" Key와 Boolean Value (YES) 를 추가한다.
 
 | Date |Cocoapods Version | Admin Version | Update Contents |
 | --- | ----------------- | ------------- | --------------- |
+| 2021.01.22 | 1.6.4        | 1.6.4 | Adiscope 1.6.4 배포 (시스템 안정화) |
 | 2020.11.16 | 1.6.0        | 1.6.0 | Adiscope 1.6.0 배포 |
 | 2020.10.23 | 1.5.9        | 1.5.9 | iOS 14 대응 네트워크 업데이트 |
 | 2020.09.23 | 1.5.5        | 1.5.5 | iOS 14 대응 (Offerwall) |
